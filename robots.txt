@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /_nuxt/
+Disallow: /__nuxt_error
+
+Sitemap: /sitemap.xml
