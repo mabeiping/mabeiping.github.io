@@ -10,112 +10,160 @@
         <loc>https://www.worktoolkit.top/tools</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/calculation/currency-converter</loc>
+        <loc>https://www.worktoolkit.top/tools/archive</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/calculation/timestamp-converter</loc>
+        <loc>https://www.worktoolkit.top/tools/calendar</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/calculation/unit-converter</loc>
+        <loc>https://www.worktoolkit.top/tools/mail</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/calculation/workday-calculator</loc>
+        <loc>https://www.worktoolkit.top/tools/ocr</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/gantt-chart-generator</loc>
+        <loc>https://www.worktoolkit.top/tools/ofd</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/habit-tracker</loc>
+        <loc>https://www.worktoolkit.top/tools/qrcode</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/meeting-notes</loc>
+        <loc>https://www.worktoolkit.top/tools/archive/compress</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/password-generator</loc>
+        <loc>https://www.worktoolkit.top/tools/archive/convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/password-manager</loc>
+        <loc>https://www.worktoolkit.top/tools/archive/extract</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/pomodoro-timer</loc>
-    </url>
-    <url>
-        <loc>https://www.worktoolkit.top/tools/efficiency/qrcode-barcode-generator</loc>
+        <loc>https://www.worktoolkit.top/tools/calendar/convert</loc>
     </url>
     <url>
         <loc>https://www.worktoolkit.top/tools/excel/batch-number-generator</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/excel/data-cleaning-tool</loc>
+        <loc>https://www.worktoolkit.top/tools/excel/config-convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/format/ebook-converter</loc>
+        <loc>https://www.worktoolkit.top/tools/excel/contact-convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/format/gif-processor</loc>
+        <loc>https://www.worktoolkit.top/tools/excel/convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/format/office-format-converter</loc>
+        <loc>https://www.worktoolkit.top/tools/excel/data-convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/format/video-converter</loc>
+        <loc>https://www.worktoolkit.top/tools/excel/process</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/image/id-photo-processor</loc>
+        <loc>https://www.worktoolkit.top/tools/image/3d-convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/image/image-batch-processor</loc>
+        <loc>https://www.worktoolkit.top/tools/image/compress</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/image/image-compressor</loc>
+        <loc>https://www.worktoolkit.top/tools/image/convert</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/image/crop</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/image/merge-split</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/image/resize</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/image/vector-convert</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/image/watermark</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/media/compress</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/media/convert</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/ocr/table</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/ofd/convert</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/adjust</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/cad-convert</loc>
     </url>
     <url>
         <loc>https://www.worktoolkit.top/tools/pdf/compress</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/pdf/editor</loc>
+        <loc>https://www.worktoolkit.top/tools/pdf/convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/pdf/encrypt</loc>
+        <loc>https://www.worktoolkit.top/tools/pdf/crop</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/pdf/format-convert</loc>
+        <loc>https://www.worktoolkit.top/tools/pdf/edit</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/extract</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/image</loc>
     </url>
     <url>
         <loc>https://www.worktoolkit.top/tools/pdf/merge</loc>
     </url>
     <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/ocr</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/remove</loc>
+    </url>
+    <url>
         <loc>https://www.worktoolkit.top/tools/pdf/rotate</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/pdf/security</loc>
     </url>
     <url>
         <loc>https://www.worktoolkit.top/tools/pdf/split</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/regex/extract</loc>
+        <loc>https://www.worktoolkit.top/tools/pdf/watermark</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/regex/generate</loc>
+        <loc>https://www.worktoolkit.top/tools/qrcode/generate</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/regex/replace</loc>
+        <loc>https://www.worktoolkit.top/tools/text/code-convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/regex/test</loc>
+        <loc>https://www.worktoolkit.top/tools/text/convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/text/date-formatter</loc>
+        <loc>https://www.worktoolkit.top/tools/text/ebook-convert</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/text/email-convert</loc>
+    </url>
+    <url>
+        <loc>https://www.worktoolkit.top/tools/text/extract</loc>
     </url>
     <url>
         <loc>https://www.worktoolkit.top/tools/text/folder-generator</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/text/text-batch-processor</loc>
+        <loc>https://www.worktoolkit.top/tools/text/font-convert</loc>
     </url>
     <url>
-        <loc>https://www.worktoolkit.top/tools/text/text-comparison</loc>
-    </url>
-    <url>
-        <loc>https://www.worktoolkit.top/tools/text/word-counter</loc>
+        <loc>https://www.worktoolkit.top/tools/text/replace</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.5.2 at 2026-02-03T11:16:55.335Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.6.0 at 2026-02-06T03:52:59.413Z -->
